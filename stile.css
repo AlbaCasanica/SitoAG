@@ -58,7 +58,7 @@ nav img.logo {
   /* -------- INIZIO Stile Hero ------------*/
 
   .hero-section {
-    background-image: url("../Chinellato0098.jpg"); /* Sostituisci col nome della tua immagine */
+    background-image: url("/Chinellato0098.jpg"); 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
